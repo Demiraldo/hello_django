@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e39549a5-6652-47e3-9a38-11d79256a562" name="Default Changelist" comment="" />
+    <list default="true" id="e39549a5-6652-47e3-9a38-11d79256a562" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coracao/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/coracao/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_django/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello_django/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1Y5oC96aZr5zBZFZvVVjAxH0E7c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -16,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -64,33 +73,41 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="9" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1582242874993" />
+    <state x="305" y="0" width="977" height="728" key="CommitChangelistDialog2" timestamp="1582403126084">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="305" y="0" width="977" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1582403126084" />
     <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1582242459357">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582242459357" />
-    <state width="1308" height="156" key="GridCell.Tab.0.bottom" timestamp="1582244516898">
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom" timestamp="1582402304411">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582244516898" />
-    <state width="1308" height="156" key="GridCell.Tab.0.center" timestamp="1582244516895">
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582402304411" />
+    <state width="1345" height="178" key="GridCell.Tab.0.center" timestamp="1582402304409">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="156" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582244516895" />
-    <state width="1308" height="156" key="GridCell.Tab.0.left" timestamp="1582244516891">
+    <state width="1345" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582402304409" />
+    <state width="1345" height="178" key="GridCell.Tab.0.left" timestamp="1582402304390">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="156" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582244516891" />
-    <state width="1308" height="156" key="GridCell.Tab.0.right" timestamp="1582244516896">
+    <state width="1345" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582402304390" />
+    <state width="1345" height="178" key="GridCell.Tab.0.right" timestamp="1582402304410">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582244516896" />
-    <state x="184" y="7" key="SettingsEditor" timestamp="1582242564266">
+    <state width="1345" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582402304410" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1582399712789">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582242564266" />
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582399712788" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1582241772639">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582241772639" />
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582402916810">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1582402916810" />
   </component>
 </project>

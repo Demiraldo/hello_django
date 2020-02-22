@@ -19,5 +19,9 @@ from coracao import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('hello/<nome>/<int:idade>', views.hello)
+    path('hello/<nome>/<int:idade>', views.hello),
+    path('soma/<int:n1>/<int:n2>', views.soma),
+    path('multiplicacao/<int:n3>/<int:n4>', views.multiplicacao),
+    path('divisao/<int:n5>/<int:n6>', views.divisao),
+    path('subtracao/<int:n7>/<int:n8>', views.subtracao)
 ]
